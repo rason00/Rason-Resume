@@ -13,7 +13,7 @@ $(document).ready(function() {
         //小圆点导航位置
         navigationPosition: 'right',
         //小圆点鼠标悬停提示文字
-        navigationTooltips: ['page1','page2','page3','page4','page5'],
+        navigationTooltips: ['首页','项目','技能','经历','联系'],
         //当页小圆点文字显示
         //showActiveTooltip:true,
         //页面滚动进入触发函数
