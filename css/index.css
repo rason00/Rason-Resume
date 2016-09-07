@@ -20,7 +20,9 @@ html {overflow-y: scroll;}
 .container .photo{ width: 200px; height: 200px; -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius:50%; border: none;}
 .container .one-name{ font-size: 3.5em; margin: 0.5em; color: #eef3f0; font-weight: bold;}
 .container .one-text{ font-size: 2em; color: #aee2d9;}
-.container .one-email { color: #008a75; margin: 1em;}
+.container .one-email { margin: 1em;}
+.container .one-email a, .one-email a:visited{ color: #008a75;}
+.container .one-email a:hover{ color: #eef3f0;}
 /*1 end*/
 /*2 start*/
 .title { font-size: 3.5em; color: #eef3f0; font-weight: bold;}
@@ -31,7 +33,7 @@ html {overflow-y: scroll;}
 .two-content p{ color: #aee2d9; margin: 1em;}
 .two-content span { color: #008a75; background-color: #aee2d9;font-size: 0.5em;margin: 5px; display: inline-block; padding: 5px; border-radius: 3px;}
 .two-more { font-size: 2em; color: #008a75;margin-top: 20px;}
-.two-more a{ color: #fff;}
+.two-more a, .two-more a:visited{ color: #fff;}
 .two-more a:hover{ color: #b2d701 }
 /*2 end*/
 /*3 start*/
@@ -41,8 +43,14 @@ html {overflow-y: scroll;}
 .tag-3 { opacity: 0.6;}
 /*3 end*/
 /*4 start*/
-
+.date { color: #008a75; font-size: 1.5em;}
+.four-content { color: #aee2d9; font-size: 2em;}
 /*4 end*/
 /*5 start*/
-
+.five-content { font-size: 2.5em; color: #fff;margin: 20px;}
+.five-content a, .five-content a:visited{ color: #eef3f0;}
+.five-content a:hover{ color: #b2d701;}
+.five-email { font-size: 1.5em; color: #eef3f0;}
+.five-email a, .five-email a:visited{ color: #008a75;}
+.five-email a:hover{ color: #eef3f0;}
 /*5 end*/
