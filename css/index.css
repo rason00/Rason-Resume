@@ -28,8 +28,11 @@ html {overflow-y: scroll;}
 .two-img div{ width: 100px; height: 100px; background-color: #008a75; -moz-border-radius: 50%; -webkit-border-radius: 50%; border-radius:50%; border: none;margin: 25px auto; padding: 18px;}
 .two-content { text-align: left;}
 .two-content h2{ font-size: 2em; color: #aee2d9;}
-.two-content p{ color: #008a75; margin: 1em;}
+.two-content p{ color: #aee2d9; margin: 1em;}
 .two-content span { color: #008a75; background-color: #aee2d9;font-size: 0.5em;margin: 5px; display: inline-block; padding: 5px; border-radius: 3px;}
+.two-more { font-size: 2em; color: #008a75;margin-top: 20px;}
+.two-more a{ color: #fff;}
+.two-more a:hover{ color: #b2d701 }
 /*2 end*/
 /*3 start*/
 
