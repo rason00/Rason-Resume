@@ -38,6 +38,8 @@ html {overflow-y: scroll;}
 /*2 end*/
 /*3 start*/
 .three-box { margin: 10px; font-size: 2em;}
+.three-box div { cursor:pointer;}
+.three-box div:hover { opacity: 1;}
 .tag { display: inline-block; background-color: #096254; color: #aee2d9;padding: 5px 15px; border-radius: 10px;}
 .tag-2 { opacity: 0.8;}
 .tag-3 { opacity: 0.6;}
