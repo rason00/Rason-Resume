@@ -28,9 +28,9 @@
 - 身高：173CM
 - 婚姻状况：未婚
 - QQ：153347284
-- 网页简历：https://rason00.github.io/Rason-Resume/
+- 网页简历：https://rason00.github.io/Rason-Resume
 - GitHub：https://github.com/rason00
-- 个人博客：https://rason00.github.io/
+- 个人博客：https://rason00.github.io
 
 ---
 
