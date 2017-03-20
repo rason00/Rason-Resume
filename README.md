@@ -51,13 +51,12 @@
 
 >   - 项目名称：公司官网搭建[2015.09-2016.08]
     - 项目人数：1人
-    - 使用技术：html、css、javascript、jquery
-    - 项目概述：
+    - 使用技术：html、css、wordpress
+    - 项目概述：
         - a.申请香港服务器，域名转移。
-        - b.架设www.sawedding.com.cn官网环境。
-        - c.以旧官网为模板，修改网站。
-        - d.活动页面制作与更新。
-        - e.日常维护。
+        - b.以旧官网为模板，修改网站。
+        - c.活动页面制作与更新。
+        - d.日常维护。
     - 责任描述：
         - 1，参与项目设计与修改。 
         - 2，用html和css构建页面。 
@@ -100,7 +99,6 @@
         - 1，参与项目设计与修改。 
         - 2，用html和css构建页面。 
         - 3，用javascript，jquery完成网站的一些特效动画。 
-        - 4，结合后台人员通过ajax完成一些数据交互。（如：分类展示，收藏和取消收藏，和一些表单验证）
 
 ---
 
@@ -115,7 +113,6 @@
 - 完成项目：
     - 官网：http://www.sawedding.com.cn/
     - model网站：http://www.sa-enta.com/
-    - 新官网（未正式上线）：http://www.sawedding.com.cn/wordpress/
 
 ---
 
