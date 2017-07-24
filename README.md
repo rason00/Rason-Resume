@@ -34,12 +34,53 @@
 
 ---
 
-##自我介绍
+## 自我介绍
 - 我叫郑永燊，个人性格比较随和，可以很好的和他人维持关系，而且可以吃苦，做事有热情，喜欢研究新事物，追求有挑战的目标，并且对于他人请求帮忙的需求，乐于援助，而且个人也是个不耻下问的人。
 
 ---
 
 ## 项目经验
+
+### 仿知乎日报app页面
+
+- 仿做知乎日报app页面。
+
+- 内容：
+
+   - 仅实现： 
+       - a.主页的banner（未实现手势滑动切换图片功能）。 
+       - b.主页内容部分排版与数据显示。
+       - c.滑动到底部自动加载前一天数据（未实现下拉刷新页面功能）。
+       - d.文章详情页面版面展示。
+     
+    - 代码地址：
+       - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
+       
+    - Demo地址：
+       - https://rason00.github.io/rason/zhihuribaoapp/index.html     
+    
+---
+
+### 仿知乎日报web版首页
+
+- 仿做知乎日报web版首页。
+
+- 内容：
+
+   - 未实现： 
+       - a.头部head和banner部分的按钮未作相应功能和链接处理。 
+       - b.详细内容页面未做，只是把链接连到了知乎日报web版相应的详细内容页面上。 
+      
+   - 不同处：
+       - 内容显示部分排版是简单的三个一排，与知乎日报web版的排版不同。
+     
+    - 代码地址：
+       - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoweb
+       
+    - Demo地址：
+       - https://rason00.github.io/rason/zhihuribaoweb/index.html      
+    
+---
 
 ### 韩国槿尚婚纱摄影有限公司
 
