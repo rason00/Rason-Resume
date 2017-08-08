@@ -57,9 +57,12 @@
     - 代码地址：
        - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
        
-    - Demo地址：
-       - https://rason00.github.io/rason/zhihuribaoapp/index.html     
-    
+    - Demo地址：    
+       1. Html+Css+JS+JQ：    
+       - https://rason00.github.io/rason/zhihuribaoapp/index.html    
+       2. Vue版：    
+       - https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html    
+    
 ---
 
 ### 仿知乎日报web首页
