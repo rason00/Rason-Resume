@@ -72,10 +72,10 @@
 
    - 未实现： 
        - a.头部head和banner部分的按钮未作相应功能和链接处理。 
-       - b.详细内容页面未做，只是把链接连到了知乎日报web版相应的详细内容页面上。 
+       - b.详细内容页面未做，只是把链接连到了知乎日报web相应的详细内容页面上。 
       
    - 不同处：
-       - 内容显示部分排版是简单的三个一排，与知乎日报web版的排版不同。
+       - 内容显示部分排版是简单的三个一排，与知乎日报web的排版不同。
      
     - 代码地址：
        - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoweb
@@ -155,8 +155,7 @@
 - 职位：web前端工程师
 - 职务：负责公司前端全部业务
 - 完成项目：
-    - 官网：http://www.sawedding.com.cn/
-    - model网站：http://www.sa-enta.com/
+    - 官网：http://www.sawedding.com.cn
 
 ---
 
@@ -167,7 +166,7 @@
 - 职位：web前端工程师
 - 职务：完成公司前端业务
 - 完成项目：
-    - 网站： http://www.59pi.com/
+    - 网站： http://www.59pi.com
 
 ---
 
