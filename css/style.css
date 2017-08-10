@@ -1,0 +1,113 @@
+/* 通用 start */
+p{
+  color: #666;
+} 
+.text-s {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.m-top100 {
+  margin-top: 100px;
+}
+.m-top30 {
+  margin-top: 30px;
+}
+.m-top50 {
+  margin-top: 50px;
+}
+.m20 {
+  margin: 20px;
+}
+.h{
+  cursor: pointer;
+}
+/* 通用 end */
+/* 画布 start */
+canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+/* 画布 end */
+/* heander start */
+.header-box {
+  position: absolute;
+    left: 0;
+    width: 320px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin-left: -160px;
+    margin-top: -160px;
+}
+.header-box h1{ 
+  line-height: 100px;
+}
+/* header end */
+/* project start */
+.project-box {
+  position: relative;
+  height: 150px;
+  cursor: pointer;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow:0 1px 1px 1px #999;
+}
+.project-box h3 {
+  line-height: 150px;
+  color: #666;
+}
+.project-box-hid {
+  position: absolute;
+  background-color: #eee; 
+  width: 100%;
+  height: 150px;
+  top: -100%;
+  left: 0;
+  opacity: 0;
+  filter: alpha(opacity=0); 
+}
+.project-box-hid h3 {
+  color: #666;
+}
+.p-t {
+  webkit-transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -ms-transition: all .3s ease-in;
+    -o-transition: all .3s ease-in;
+    transition: all .3s ease-in;
+}
+  .project-box:hover .project-box-hid {
+    opacity: 1;
+    top: 0;
+  }
+  .modal-box {
+    padding: 20px;
+  }
+  .modal-box p {
+    line-height: 18px;
+    color: #666；
+  }
+/* project end */
+/* footer start */
+.footer-box {
+  margin-bottom: 100px;
+}
+.footer-more {
+
+  line-height: 34px;
+  color: #666;
+}
+.footer-box a {
+  color: #666;
+}
+.footer-box p {
+  color: #666;
+  line-height: 50px;
+}
+
+/* footer end */
