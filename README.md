@@ -28,7 +28,7 @@
 - 居住地：广州-天河区
 - 身高：173CM
 - 婚姻状况：未婚
-- 网页简历：https://rason00.github.io/Rason-Resume
+- 网页简历：https://rason00.github.io/Rason-Resume/index.html
 - GitHub：https://github.com/rason00
 - 个人博客：https://rason00.github.io
 
