@@ -43,6 +43,7 @@ canvas{
     left: 50%;
     margin-left: -160px;
     margin-top: -160px;
+    z-index: 999;
 }
 .header-box h1{ 
   line-height: 100px;
