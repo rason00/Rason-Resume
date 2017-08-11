@@ -55,7 +55,7 @@ canvas{
   height: 150px;
   cursor: pointer;
   overflow: hidden;
-  border-radius: 10px;
+  border-radius: 5px;
   box-shadow:0 1px 1px 1px #999;
 }
 .project-box h3 {
