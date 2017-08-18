@@ -45,7 +45,10 @@
 
 - 仿做知乎日报app页面。（个人练习）
 
-- 内容：
+- 内容：  
+
+    - 使用技术：  
+        - vue-cli、vue-router、axios、mint-ui
 
    - 仅实现： 
        - a.主页的banner。 
@@ -69,6 +72,9 @@
 - 仿做知乎日报web首页。（个人练习）
 
 - 内容：
+
+    - 使用技术：  
+        - HTML5、Sass、Bootstrap4
 
    - 未实现： 
         - a.头部head和banner部分的按钮未做相应功能和链接处理。（新版本已处理） 
