@@ -34,6 +34,9 @@
 ---
 
 ## 了解技能
+
+个人学习方法为实践中去学习，去复习，以上技术皆是在看过官方文档后，自己寻找相应的代入项目中去实践学习。
+
 - HTML/HTML5、CSS/CSS3、JavaScript、jQuery
 
 - Bootstrap4：
@@ -42,7 +45,6 @@
 > Code：[仿知乎日报web-Sass文件](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/sass/style.scss)
 - vue：
 > Demo：[仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)
-
 
 ---
 
