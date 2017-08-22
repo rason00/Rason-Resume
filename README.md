@@ -4,7 +4,7 @@
 
 - [基本信息](#基本信息)
 
-- [自我介绍](#自我介绍)
+- [了解技能](#了解技能)
 
 - [项目经验](#项目经验)
     
@@ -27,15 +27,22 @@
 - 工作年限：2年
 - 居住地：广州-天河区
 - 身高：173CM
-- 婚姻状况：未婚
 - 网页简历：https://rason00.github.io/Rason-Resume/index.html
 - GitHub：https://github.com/rason00
 - 个人博客：https://rason00.github.io
 
 ---
 
-## 自我介绍
-- 我叫郑永燊，个人性格比较随和，可以很好的和他人维持关系，而且可以吃苦，做事有热情，喜欢研究新事物，追求有挑战的目标，并且对于他人请求帮忙的需求，乐于援助，而且是个不耻下问的人。
+## 了解技能
+- HTML/HTML5、CSS/CSS3、JavaScript、jQuery
+
+- Bootstrap4：
+> Code：[仿知乎日报web](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/index.html)、[个人简历](https://github.com/rason00/Rason-Resume/blob/gh-pages/index.html)
+- Sass：
+> Code：[仿知乎日报web-Sass文件](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/sass/style.scss)
+- vue：
+> Demo：[仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)
+
 
 ---
 
