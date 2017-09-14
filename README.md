@@ -1,215 +1,77 @@
-# 郑永燊 - 个人简历
+# 联系方式
+
+* 手机：13632452567
+* Email：rason00@163.com
 
 ---
 
-- [基本信息](#基本信息)
+# 个人信息
 
-- [了解技能](#了解技能)
+* 郑永燊/男/1993
 
-- [项目经验](#项目经验)
-    
-    - [仿知乎日报app页面](#仿知乎日报app页面)
-    - [仿知乎日报web首页](#仿知乎日报web首页)
-    - [韩国槿尚婚纱摄影有限公司](#韩国槿尚婚纱摄影有限公司)
-    - [广州市潮泰信息有限公司](#广州市潮泰信息有限公司)
-    
-- [工作经验](#工作经验)
-    
-- [教育背景](#教育背景)
+* 大专/广东建设职业技术学院
 
-## 基本信息
+* 工作年限：2年
 
-- 姓名：郑永燊
-- 性别：男
-- 出生：93-03-22
-- 手机：13632452567
-- Email：rason00@163.com
-- 工作年限：2年
-- 居住地：广州-天河区
-- 身高：173CM
-- 网页简历：https://rason00.github.io/Rason-Resume/index.html
-- GitHub：https://github.com/rason00
-- 个人博客：https://rason00.github.io
+* 技术博客：https://rason00.github.io
+
+* Github：https://github.com/rason00
+
+* 网页简历：https://rason00.github.io/Rason-Resume/index.html
+
+* 期望职位：Web前端程序员
+
+* 期望薪资：6~7K
+
+* 期望城市：广州
 
 ---
 
-## 了解技能
+# 工作经历
 
-个人学习方法为实践中去学习，去复习，以下个别技术皆是在看过官方文档后，自己寻找相应的项目去代入实践学习，以此来做到新知识的运用和复习巩固旧知识。
+## 韩国槿尚婚纱摄影有限公司 （2015.09-2016.08）
 
-- HTML/HTML5、CSS/CSS3、JavaScript、jQuery
+### 公司官网搭建 （http://www.sawedding.com.cn）
 
-- Bootstrap4：
-> Code：[仿知乎日报web](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/index.html)、[个人简历](https://github.com/rason00/Rason-Resume/blob/gh-pages/index.html)
-- Sass：
-> Code：[仿知乎日报web-Sass文件](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/sass/style.scss)
-- vue：
-> Demo：[仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)
+负责服务器购买，域名解析，网站迁移，改版旧官网，使用wordpress搭建网站，选择主题搭建大致框架，配合设计师，使用HTML/CSS/JS修改主题细节，以完成任务。改版完成后负责维护更新网站，完成活动页面制作。由于入职时公司只有一个程序员，原网站的页面很多都是代码写死的，改版时也没有其他前后端程序员配合完成，考虑到未来使用方便，我选择了wordpress搭建新官网，之后只需要学习一下后台操作，就可以实现官网更新内容了。而现在离职后，公司亦没有新请程序员，也能完成官网的更新了。
 
----
 
-## 项目经验
+## 广州市潮泰信息有限公司 （2014.08-2015.08）
 
-### 仿知乎日报app页面
+### 网批平台的开发 （http://www.59pi.com）
 
-- 仿做知乎日报app页面。（个人练习）
-
-- 内容：  
-
-    - 使用技术：  
-        - vue-cli、vue-router、axios、mint-ui
-
-   - 仅实现： 
-       - a.主页的banner。 
-       - b.主页内容部分排版与数据显示。
-       - c.滑动到底部自动加载前一天数据（未实现下拉刷新页面功能，vue版已实现）。
-       - d.文章详情页面版面展示。
-     
-    - 代码地址：
-       - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
-       
-    - Demo地址：    
-       1. Html+Css+JS+JQ：    
-       - https://rason00.github.io/rason/zhihuribaoapp/index.html    
-       2. Vue版：    
-       - https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html    
-    
----
-
-### 仿知乎日报web首页
-
-- 仿做知乎日报web首页。（个人练习）
-
-- 内容：
-
-    - 使用技术：  
-        - HTML5、Sass、Bootstrap4
-
-   - 未实现： 
-        - a.头部head和banner部分的按钮未做相应功能和链接处理。（新版本已处理） 
-        - b.详细内容页面未做，只是把链接连到了知乎日报web相应的详细内容页面上。 
-      
-   - 不同处：
-        - 内容显示部分排版是简单的三个一排，与知乎日报web的排版不同。（新版本已与原版一致）
-       
-    - 代码地址：
-       - https://github.com/rason00/rason/tree/gh-pages/zhihuribaoweb
-       
-    - Demo地址：
-       - https://rason00.github.io/rason/zhihuribaoweb/index.html      
-    
----
-
-### 韩国槿尚婚纱摄影有限公司
-
-- 职务：web前端工程师
-- 公司类别：婚纱摄影服务业
-- 地点：广州
-- 公司规模：50-150人
-- 工作内容：
-
-   - 项目名称：公司官网搭建[2015.09-2016.08]
-   - 项目人数：1人
-   - 使用技术：wordpress、html、css 
-   - 项目概况： 
-       - a.申请香港服务器，域名转移。 
-       - b.以旧官网为模板，修改网站。 
-       - c.活动页面制作与更新。 
-       - d.日常维护。
-   - 责任描述：
-        - 1，参与项目设计与修改。
-        - 2，用html和css修改页面。 
-        - 3，用javascript，jquery完成网站的一些特效动画。 
-        - 4，负责日常维护和活动页面制作。
-    
----
-
-   - 项目名称：model网站搭建[2015.12-2016.01]
-   - 项目人数：1人
-   - 使用技术：wordpress、html、css 
-   - 项目概况： 
-       - a.申请域名，绑定域名。 
-       - b.设计网站布局和样式。 
-       - c.以wordpress搭建www.sa-enta.com的网站环境。 
-       - d.使用wordpress主题并修改主题完成设计效果。 
-       - e.日常维护。
-   - 责任描述：
-       - 1，参与项目设计与修改。 
-       - 2，完成网站环境的架设与页面展示的实现。 
-       - 3，上线发布。
-  
----
-
-### 广州市潮泰信息有限公司
-
-- 职务：web前端工程师
-- 公司类别：互联网科技
-- 地点：广州
-- 公司规模：50-150人
-- 工作内容：
-
-   - 项目名称：网批平台的开发[2014.08-2015.08]
-   - 项目人数：3人 
-   - 使用技术：html、css、javascript、jquery
-   - 项目概述： 
-       - a.合作实现www.59pi.com的前端页面布局。 
-       - b.日常维护。
-   - 责任描述：
-       - 1，参与项目设计与修改。 
-       - 2，用html和css构建页面。 
-       - 3，用javascript，jquery完成网站的一些特效动画。 
+实习身份进入公司，开始由组长分发任务，主要负责切图任务，由此，学会了熟练的使用Photoshop进行PSD设计文档的切图能力，之后组长开始慢慢分发一些小任务，如，一些页眉页脚的制作。主要是了解熟悉任务流程，期间也是认真学习状态，最后由于需求上需要修改，分发到了导航栏的制作任务，由于整体网站框架也是仿制淘宝的，而组长教下也是多看淘宝，所以在一边开着淘宝，一变码代码的情况下完成了任务。后期则是维护网站。
 
 ---
 
-## 工作经验
+# 开源项目和作品
 
-- 2015.09-2016.08[11个月]
-- 韩国槿尚婚纱摄影有限公司
-- 地点：广州
-- 规模：50-150人
-- 职位：web前端工程师
-- 职务：  
-    - 1.前期入职负责重做官网
-        - a、wordpress搭建主框架。
-        - b、html，css修改主题细节。
-    - 2.后期维护官网
-        - a、日常更新官网内容。
-        - b、修复完善官网细节。
-        - c、活动页面的制作，主要用到html，css，js。
-- 完成项目：
-    - 官网：http://www.sawedding.com.cn
+## 开源项目
+* [仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)：
+    * 使用技术：vue-cli、vue-router、axios、mint-ui
+    * 详情地址：https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
+* [仿知乎日报web首页](https://rason00.github.io/rason/zhihuribaoweb/index.html)：
+    * 使用技术：HTML5、Sass、Bootstrap4
+    * 详情地址：https://github.com/rason00/rason/tree/gh-pages/zhihuribaoweb
+
+## 技术文章
+* [vuex状态管理](https://rason00.github.io/2017/09/04/Vuex%E5%AD%A6%E4%B9%A0/)
+* [vue组件通信](https://rason00.github.io/2017/08/26/Vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/)
 
 ---
 
-- 2014.08-2015.08[一年]
-- 广州市潮泰信息有限公司
-- 地点：广州
-- 规模：50-150人
-- 职位：web前端工程师
-- 职务：  
-    - 1.前期负责给组长打下手。
-        - a、负责帮忙切图
-        - b、完成组长分发的一些小功能页面的代码。
-    - 2.后期负责维护和改版的一些小模块。
-        - a、导航栏的样式重改。
-        - b、详情页的排版重改。
-        - c、更新维护网站。
-- 完成项目：
-    - 网站： http://www.59pi.com
+# 了解技能
+
+* HTML/HTML5、CSS/CSS3、JavaScript、jQuery、Photoshop
+* Bootstrap4：
+    * Code：[仿知乎日报web](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/index.html)、[个人简历](https://github.com/rason00/Rason-Resume/blob/gh-pages/index.html)
+* Sass：
+    * Code：[仿知乎日报web-Sass文件](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/sass/style.scss)
+* vue：
+    * Demo：[仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)
 
 ---
 
-## 教育背景
+# 致谢
 
-- 2012.09-2015.07
-- 毕业于：广东建设职业技术学院
-- 专业：软件技术
-- 学历：大专
-
----
-
-
-
-
-
-
+感谢您花时间阅读我的简历，期待能有机会和您共事。
