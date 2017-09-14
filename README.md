@@ -48,7 +48,7 @@
 
 ## 开源项目
 * [仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)：
-    * 使用技术：vue-cli、vue-router、axios、mint-ui
+    * 使用技术：vue-cli、vue-router、axios、mint-ui、vuex
     * 详情地址：https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
 * [仿知乎日报web首页](https://rason00.github.io/rason/zhihuribaoweb/index.html)：
     * 使用技术：HTML5、Sass、Bootstrap4
