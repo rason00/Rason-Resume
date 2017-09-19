@@ -60,7 +60,7 @@
 
 ---
 
-# 了解技能
+# 掌握技能
 
 * HTML/HTML5、CSS/CSS3、JavaScript、jQuery、Photoshop
 * Bootstrap4：
