@@ -1,79 +1,97 @@
-# 已在职（2017-10 至 今）
+# 个人简历
 
-# 联系方式
+## 联系方式
 
-* 手机：13632452567
-* Email：rason00@163.com
+**手机：13632452567**
 
----
+**Email：rason00@163.com**
 
-# 个人信息
+## 掌握技能
 
-* 郑永燊/男/1993
+**HTML/HTML5、CSS/CSS3/Sass、JavaScript/ES6/jquery、webpack、vue**
 
-* 大专/广东建设职业技术学院
+## 个人信息
 
-* 工作年限：2年
+**郑永燊/男/1993**
 
-* 技术博客：https://rason00.github.io
+**广东建设职业技术学院/大专**
 
-* Github：https://github.com/rason00
+**工作年限：3年**
 
-* 网页简历：https://rason00.github.io/Rason-Resume/index.html
+**技术博客：https://rason00.github.io**
 
-* 期望职位：Web前端程序员
+**Github：https://github.com/rason00**
 
-* 期望薪资：6~7K
+**期望职位：Web前端**
 
-* 期望城市：广州
+**期望薪资：8~10K**
 
----
+**期望城市：广州**
 
-# 工作经历
+**工作状态：在职**
 
-## 韩国槿尚婚纱摄影有限公司 （2015.09-2016.08）
+## 工作经历
 
-### 公司官网搭建 （http://www.sawedding.com.cn）
+### 广州蓝门数字营销顾问有限公司 （2017.10-今）
 
-负责服务器购买，域名解析，网站迁移，改版旧官网，使用wordpress搭建网站，选择主题搭建大致框架，配合设计师，使用HTML/CSS/JS修改主题细节，以完成任务。改版完成后负责维护更新网站，完成活动页面制作。由于入职时公司只有一个程序员，原网站的页面很多都是代码写死的，改版时也没有其他前后端程序员配合完成，考虑到未来使用方便，我选择了wordpress搭建新官网，之后只需要学习一下后台操作，就可以实现官网更新内容了。而现在离职后，公司亦没有新请程序员，也能完成官网的更新了。
+- 职位：web前端
 
+- 职责：制作PC专题活动、M端H5活动、后台系统、小程序等前端页面
 
-## 广州市潮泰信息有限公司 （2014.08-2015.08）
+  负责分发下来的前端任务，开始负责南航的活动页面，之后主对宝骏的活动页面，一般多数是M端的H5活动页面，然后是每个月会有的PC专题页面，主要运用的是webpack打包工具制作页面，后期接手宝骏的一个数字营销管理后台系统，运用技术是vue，使用的是iview-admin框架搭建，现在开始接触小程序，正在制作第一个有关名片夹的小程序。
 
-### 网批平台的开发 （http://www.59pi.com）
+### 韩国槿尚婚纱摄影有限公司 （2015.09-2016.08）
 
-实习身份进入公司，开始由组长分发任务，主要负责切图任务，由此，学会了熟练的使用Photoshop进行PSD设计文档的切图能力，之后组长开始慢慢分发一些小任务，如，一些页眉页脚的制作。主要是了解熟悉任务流程，期间也是认真学习状态，最后由于需求上需要修改，分发到了导航栏的制作任务，由于整体网站框架也是仿制淘宝的，而组长教下也是多看淘宝，所以在一边开着淘宝，一变码代码的情况下完成了任务。后期则是维护网站。
+- 职位：web前端
 
----
+- 职责：搭建及维护公司官网
 
-# 开源项目和作品
+  前期负责服务器购买，域名解析，网站迁移，配合设计师改版旧官网。后期负责维护更新网站，完成活动页面制作。由于入职时公司只有一个程序员，原网站的页面很多都是代码写死的，改版时也没有其他前后端程序员配合，考虑到未来使用方便，个人选择了wordpress搭建新官网，之后其他人只需要熟悉一下后台操作，就可以实现官网更新内容了。而离职后，公司亦没有招程序员，也能一直更新网站。
 
-## 开源项目
-* [仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)：
-    * 使用技术：vue-cli、vue-router、axios、mint-ui、vuex
-    * 详情地址：https://github.com/rason00/rason/tree/gh-pages/zhihuribaoapp
-* [仿知乎日报web首页](https://rason00.github.io/rason/zhihuribaoweb/index.html)：
-    * 使用技术：HTML5、Sass、Bootstrap4
-    * 详情地址：https://github.com/rason00/rason/tree/gh-pages/zhihuribaoweb
+### 越亮传奇科技股份有限公司 （2014.08-2015.08）
+
+- 职位：实习
+
+  实习身份进入公司，开始由组长分发任务，主要负责切图及简单的一些更新任务，由此，学会了熟练的使用Photoshop进行PSD设计文档的切图能力，以及了解了前端行业。
+
+## 项目经验
+
+**PC专题页及M端H5活动页**
+
+- 使用技术：HTML、CSS/Sass、ES5/6、jquery、webpack
+
+  > 类似页面可去宝骏官网查看相关专题活动页面（https://www.sgmw.com.cn/）
+
+**营销管理后台系统**
+
+- 使用技术：vue、iview-admin
+
+  > 系统后台登录页面 （https://shichang.autobaojun.cn/#/login）
+
+**韩国槿尚官网婚纱摄影官网**
+
+- 使用技术：Wordpress
+
+  > 官网地址 （http://www.sawedding.com.cn）
+
+**个人博客**
+
+- 使用技术：hexo
+
+  > 配合使用GitHub页面运用hexo搭建，使用git更新（https://rason00.github.io）
+
+**小程序**
+
+- 使用技术：微信小程序
+
+  > 正在开发中
 
 ## 技术文章
-* [vuex状态管理](https://rason00.github.io/2017/09/04/Vuex%E5%AD%A6%E4%B9%A0/)
-* [vue组件通信](https://rason00.github.io/2017/08/26/Vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1/)
 
----
+- [webpack4个人配置](https://rason00.github.io/2018/09/06/webpack4-%E4%B8%AA%E4%BA%BA%E9%85%8D%E7%BD%AE/)
 
-# 掌握技能
+  > 更多文章可到个人博客查看 （https://rason00.github.io）
 
-* HTML/HTML5、CSS/CSS3、JavaScript、jQuery、Photoshop
-* Bootstrap4：
-    * Code：[仿知乎日报web](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/index.html)、[个人简历](https://github.com/rason00/Rason-Resume/blob/gh-pages/index.html)
-* Sass：
-    * Code：[仿知乎日报web-Sass文件](https://github.com/rason00/rason/blob/gh-pages/zhihuribaoweb/sass/style.scss)
-* vue：
-    * Demo：[仿知乎日报app页面](https://rason00.github.io/rason/zhihuribaoapp/vue2.0/index.html)
-
----
-
-# 致谢
+## 致谢
 
 感谢您花时间阅读我的简历，期待能有机会和您共事。
