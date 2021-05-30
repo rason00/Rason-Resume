@@ -78,7 +78,7 @@
 
 **PC专题页及移动端H5活动页**
 
-- 使用技术：HTML、CSS/Sass、JavaScript/ES5/6、jquery、webpack
+- 使用技术：HTML、CSS、JavaScript、jquery、webpack
 
 - 项目职责：
 
@@ -92,7 +92,7 @@
 
 **上汽通用五菱营销管理系统**
 
-- 使用技术：html、cs、sJavaScript、vue、iview-admin
+- 使用技术：html、css、JavaScript、vue、iview-admin
 
 - 项目职责：
 
