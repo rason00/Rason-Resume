@@ -18,6 +18,8 @@
 
 **广东建设职业技术学院/大专**
 
+**工作时间：5年**
+
 **技术博客：https://rason00.github.io**
 
 **Github：https://github.com/rason00**
